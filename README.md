@@ -12,4 +12,6 @@ A quick starter project with NodeJS + Express + JWT + Refresh Token + MongoDb, u
 - **mongoose** - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
 - **winston** - A logger for just about everything.
 
-[<img src="https://i.imgur.com/K6U731D.png">]
+<img src="https://i.imgur.com/K6U731D.png">
+
+<img src="https://i.imgur.com/55KxrEp.png">
