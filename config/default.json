@@ -1,0 +1,9 @@
+{
+  "jwtPrivateKey": "neo_jwtPrivateKey",
+  "jwtRefreshKey": "neo_jwtRefreshKey",
+  "db": "URL GOES HERE",
+
+  "baseUrl": "http://localhost:8080",
+  "webUrl": "http://localhost:3000",
+  "env": "development"
+}
